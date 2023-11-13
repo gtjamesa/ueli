@@ -1,7 +1,7 @@
 {
     "name": "ueli",
     "productName": "ueli",
-    "version": "8.24.0",
+    "version": "8.26.0",
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -10,7 +10,7 @@
     "homepage": "https://ueli.app",
     "author": {
         "name": "Oliver Schwendener",
-        "email": "oliver.schwendener@hotmail.com",
+        "email": "oliver.schwendener@proton.me",
         "url": "https://github.com/oliverschwendener"
     },
     "description": "This is a keystroke launcher for Windows and macOS.",
@@ -45,10 +45,10 @@
         "@typescript-eslint/parser": "^6.1.0",
         "axios": "^1.2.4",
         "color": "^4.2.3",
-        "electron": "^22.0.3",
-        "electron-builder": "^23.6.0",
-        "electron-store": "^8.0.1",
-        "electron-updater": "^5.3.0",
+        "electron": "^26.3.0",
+        "electron-builder": "^24.6.4",
+        "electron-store": "^8.1.0",
+        "electron-updater": "^6.1.4",
         "eslint": "^8.45.0",
         "fuse.js": "^6.6.2",
         "jest": "^29.4.0",

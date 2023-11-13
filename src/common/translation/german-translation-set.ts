@@ -314,7 +314,7 @@ export const germanTranslationSet: TranslationSet = {
 
     currencyConverter: "Währungsumrechnung",
     currencyConverterDescription:
-        "Dieses Plugin erlaubt es dir schnell Währungsumrechnungen zu machen. Aktuelle Wechselkurse werden von https://exchangeratesapi.io/ bereit gestellt.",
+        "Dieses Plugin erlaubt es dir schnell Währungsumrechnungen zu machen. Aktuelle Wechselkurse werden von https://github.com/fawazahmed0/currency-api/ bereit gestellt.",
     currencyConverterPrecision: "Präzision",
     currencyConverterCopyToClipboard: "Drücke Enter um in die Zwischenablage zu kopieren",
 

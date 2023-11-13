@@ -313,7 +313,7 @@ export const ukrainianTranslationSet: TranslationSet = {
     currencyConverter: "Конвертація валют",
 
     currencyConverterDescription:
-        "Цей плагін дозволяє швидко конвертувати валюти. Актуальні курси валют надані https://exchangeratesapi.io/.",
+        "Цей плагін дозволяє швидко конвертувати валюти. Актуальні курси валют надані https://github.com/fawazahmed0/currency-api/.",
     currencyConverterPrecision: "Точність",
     currencyConverterCopyToClipboard: "Натисніть клавішу enter, щоб скопіювати",
 

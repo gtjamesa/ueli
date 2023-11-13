@@ -312,7 +312,7 @@ export const finnishTranslationSet: TranslationSet = {
 
     currencyConverter: "Valuuttamuunnin",
     currencyConverterDescription:
-        "Tämän lisäosan avulla voit tehdä nopeasti valuuttamuunnoksia. Nykyiset valuuttakurssit tarjoaa https://exchangeratesapi.io/.",
+        "Tämän lisäosan avulla voit tehdä nopeasti valuuttamuunnoksia. Nykyiset valuuttakurssit tarjoaa https://github.com/fawazahmed0/currency-api/.",
     currencyConverterPrecision: "Tarkkuus",
     currencyConverterCopyToClipboard: "Paina Enteriä kopioidaksesi leikepöydälle",
 

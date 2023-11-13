@@ -308,7 +308,7 @@ export const russianTranslationSet: TranslationSet = {
 
     currencyConverter: "Конвертация валют",
     currencyConverterDescription:
-        "Этот плагин позволяет быстро конвертировать валюты. Актуальные курсы валют предоставлены https://exchangeratesapi.io/.",
+        "Этот плагин позволяет быстро конвертировать валюты. Актуальные курсы валют предоставлены https://github.com/fawazahmed0/currency-api/.",
     currencyConverterPrecision: "Точность",
     currencyConverterCopyToClipboard: "Нажмите enter, чтобы скопировать",
 
